@@ -1,4 +1,4 @@
-Created C:\Users\Admin\.gemini\antigravity\scratch\football-multiplayer-game\package.json
+Created C:\Users\Admin'\football-multiplayer-game\package.json
 Created package.json
 Created capacitor.config.json
 Created physics.js
